@@ -1,11 +1,17 @@
 import './common/env'
 import routes from './common//routes'
 import Connection from './db'
+import cors from 'cors'
+import helmet from 'helmet'
 import express, { Application, Request, Response } from 'express'
 
 const app: Application = express()
 
 Connection
+
+//middleware
+app.use(cors())
+app.use(helmet())
 
 app.disable('x-powered-by')
 app.use(
