@@ -1,8 +1,12 @@
-#This is a simple Blog Website built using the following Languages
+# This is a simple Blog Website built using the following Languages
 
     => HTML
         HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. 
-        HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as <head>, <title>, <body>, <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>, <ol>, <li> and many others.
+        HTML uses "markup" to annotate text, images, and other content for display in a Web browser. HTML markup includes special "elements" such as 
+        <head>, <title>, <body>, <header>, <footer>, <article>, <section>,
+        <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>, <datalist>,
+        <details>, <embed>, <nav>, <output>, <progress>, <video>, <ul>,
+        <ol>, <li> and many others.
 
     => Bootstrap
         Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
@@ -14,7 +18,8 @@
         TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 
     => MongoDb
-        MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.
+        MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB
+        uses JSON-like documents with optional schemas.
        
 # The system will have the following Actors or User
 
